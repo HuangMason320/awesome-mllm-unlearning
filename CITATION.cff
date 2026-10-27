@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you find this list useful, please cite it using the metadata below."
+title: "Awesome MLLM Unlearning: A Curated List of Machine Unlearning for Multimodal Large Language Models"
+abstract: >-
+  A curated list of papers, benchmarks, and resources on machine unlearning
+  for multimodal large language models (MLLMs) and vision-language models
+  (VLMs), covering benchmarks, unlearning methods, safety and hallucination
+  unlearning, robustness and attack evaluations, CLIP-style models, and
+  multimodal models beyond vision.
+type: software
+authors:
+  - family-names: Huang
+    given-names: Chih-Chuan
+    affiliation: National Taiwan University
+repository-code: "https://github.com/HuangMason320/awesome-mllm-unlearning"
+url: "https://github.com/HuangMason320/awesome-mllm-unlearning"
+license: Apache-2.0
+date-released: "2026-10-27"
+keywords:
+  - machine unlearning
+  - multimodal large language models
+  - MLLM
+  - vision-language models
+  - VLM
+  - awesome list
